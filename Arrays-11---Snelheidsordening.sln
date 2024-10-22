@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays-11---Snelheidsordening", "Arrays-11---Snelheidsordening\Arrays-11---Snelheidsordening.csproj", "{7A6CB1A8-139C-4F1E-99A3-DD42E701517A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6CB1A8-139C-4F1E-99A3-DD42E701517A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6CB1A8-139C-4F1E-99A3-DD42E701517A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6CB1A8-139C-4F1E-99A3-DD42E701517A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6CB1A8-139C-4F1E-99A3-DD42E701517A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99EF05A1-2F3F-40CC-A16F-7681455C6DDD}
+	EndGlobalSection
+EndGlobal
